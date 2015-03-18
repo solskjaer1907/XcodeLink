@@ -18,6 +18,8 @@
     [super viewDidLoad];
     
     NSLog(@"what the fuck");
+    
+    NSLog(@"hello world");
 }
 
 - (void)didReceiveMemoryWarning {

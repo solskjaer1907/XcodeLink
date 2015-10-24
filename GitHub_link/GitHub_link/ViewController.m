@@ -17,9 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    NSLog(@"what the fuck");
-    
-    NSLog(@"hello world");
+    NSLog(@"this is version control test");
 }
 
 - (void)didReceiveMemoryWarning {
